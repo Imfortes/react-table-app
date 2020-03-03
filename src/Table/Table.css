@@ -1,0 +1,16 @@
+.table{
+    margin: 0 auto;
+    width: 80vw;
+}
+caption{
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+tr{
+    text-align: center;
+}
+th,td{
+    text-align: center;
+}
