@@ -1,10 +1,10 @@
 import React from 'react';
-import './Table.css'
+import './Table.css';
 
 function Table(props) {
 
     return(
-        <table className="table">
+        <table className="table table_dark">
             <caption>Table React App</caption>
             <thead>
             <tr>

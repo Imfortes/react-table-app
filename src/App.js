@@ -1,8 +1,9 @@
 import React from 'react';
-import Table from './Table/Table'
-import Loader from './Loader/Loader'
-import _ from 'lodash'
-import DetailRowView from './DetailRowView/DetailRowView'
+import './App.css';
+import Table from './Table/Table';
+import Loader from './Loader/Loader';
+import _ from 'lodash';
+import DetailRowView from './DetailRowView/DetailRowView';
 
 class App extends React.Component{
 
